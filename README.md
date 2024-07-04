@@ -1,7 +1,7 @@
 # 💫 About Me:
-- 🌱 I’m currently interested in Big Data and Data Engineering
+- 🎓 &nbsp;I'm currently studying Data Engineering in Computer Science master degree at the University of RomaTre.\
+- 🌱 I’m interested in Big Data and Computer Science.
 - 💬 Ask me about **Anything!**
-- 📫 How to reach me: **ale.mari0803@gmail.com**
 
 ### 🛠 &nbsp;Languages and Tools
 
