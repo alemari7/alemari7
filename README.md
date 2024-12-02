@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🎓 &nbsp;I'm currently studying Data Engineering in Computer Science master degree at the University of RomaTre.\
-- 🌱 I’m interested in Big Data, Machine Learning and Computer Science.
+- 🌱 I’m interested in Big Data, Machine Learning and Data Analytics.
 - 💬 Ask me about **Anything!**
 
 ### 🛠 &nbsp;Languages and Tools
